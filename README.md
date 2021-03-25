@@ -1,4 +1,6 @@
-# week7-weekend-hw
+# Vue App with Requests
+
+Create a multi-component Vue app that makes API requests to load JSON data into the application
 
 ## Project setup
 ```
